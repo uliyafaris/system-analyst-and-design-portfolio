@@ -25,16 +25,16 @@ _The development model (SDLC)_ used is Agile Scrum, as the Agile Scrum SDLC is a
 | User | Requirements | 
 | :--- | :--- | 
 | Admin, Owner | Login | 
-| | Add Product | 
-| | Edit Product |
+| Admin | Add Product | 
+| Admin | Edit Product |
 | Admin, Owner | View Product |
-| | Delete Product |
-| | Search Product |
-| | Add Data Sales |
-| | Edit Data Sales |
+| Admin | Delete Product |
+| Admin | Search Product |
+| Admin | Add Data Sales |
+| Admin | Edit Data Sales |
 | Admin, Owner | View Data Sales |
-| | Add Data Sales |
-| | Delete Data Sales |
+| Admin | Add Data Sales |
+| Admin | Delete Data Sales |
 | Admin, Owner | Search Data Sales |
 | Admin, Owner | View Recap Data Sales |
 | Admin, Owner | Print Recap Product |
