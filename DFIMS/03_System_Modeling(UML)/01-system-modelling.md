@@ -1,3 +1,11 @@
+# Features 
+SPRINT 1: User Management & Product Data  
+SPRINT 2: Sales Features  
+SPRINT 3: Summary/Reporting Features  
+SPRINT 4: Prediction  
+
+----
+
 | Design and UML | Description |
 | :--- | :--- |
 | Usecase | Creating a diagram that provides an overview of the relationships between actors and the system |
