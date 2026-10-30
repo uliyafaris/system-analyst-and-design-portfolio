@@ -21,6 +21,7 @@ _The development model (SDLC)_ used is **Agile Scrum**, as the Agile Scrum SDLC 
 
 
 **Functional Requirements**
+Functional requirements are requirements that describe what the system must do.
 
 | User | Requirements | 
 | :--- | :--- | 
@@ -49,6 +50,7 @@ _The development model (SDLC)_ used is **Agile Scrum**, as the Agile Scrum SDLC 
 ---
 
 **Non Functional Requirements**
+Non-functional requirements describe how well a system performs, focusing on its quality, performance, security, and operational constraints.
 
 | Category | System Constraint Specifications | 
 | :--- | :--- | 
