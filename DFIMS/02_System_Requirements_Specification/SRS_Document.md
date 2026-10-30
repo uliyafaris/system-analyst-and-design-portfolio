@@ -1,6 +1,6 @@
 # **System Requirements Specification**
 
-**User Characteristics**  
+## **User Characteristics**  
 The user profiles for this system consist of employee administrators and owners, who manage information and goods.  
 
 ---
@@ -15,7 +15,7 @@ The user profiles for this system consist of employee administrators and owners,
 ---
 
 ## **System Development Methodology**  
-_The development model (SDLC)_ used is Agile Scrum, as the Agile Scrum SDLC is a model that accommodates changes throughout the development process, making it flexible and adaptable at any time.
+_The development model (SDLC)_ used is **Agile Scrum**, as the Agile Scrum SDLC is a model that accommodates changes throughout the development process, making it flexible and adaptable at any time.
 
 ---
 
@@ -46,8 +46,22 @@ _The development model (SDLC)_ used is Agile Scrum, as the Agile Scrum SDLC is a
 | Owner | Delete Data Employee |
 | Admin, Owner | Logout |
 
+---
 
+**Non Functional Requirements**
 
+| Category | System Constraint Specifications | 
+| :--- | :--- | 
+|  Data Requirements | Employee data |
+|  | Sales transaction data |
+|  | Product data |
+| Interface Requirements | The system uses a web-based interface |
+|  | The system is programmed using the Laravel framework | 
+| Resource Utilization/implementation | Use of a MySQL database |
+|  | Implementation of code using PHP, HTML, CSS, and JavaScript |
+|  | Creation of a Gantt chart using ProjectLibre |
+|  | Development of UI designs using Figma |
+|  | Creation of UML designs using Enterprise Architect | 
 
 
 
