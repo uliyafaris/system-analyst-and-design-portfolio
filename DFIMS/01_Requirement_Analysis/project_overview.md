@@ -3,7 +3,7 @@
 **Role:** System Analyst & Designer  
 **Project Type**: System Development and Business Process Improvement  
 **Industry/Domain**: Inventory/Agroindustri  
-**Focus:** Demand Forecasting System & Inventory Management(DFIMS)
+**Focus:** Demand Forecasting & Inventory Management System(DFIMS)
 
 ---
 
